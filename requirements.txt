@@ -1,0 +1,4 @@
+gradio
+requests
+python-docx
+pymupdf<1.24.0
