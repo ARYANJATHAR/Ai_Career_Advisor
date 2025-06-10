@@ -11,6 +11,8 @@ license: mit
 thumbnail: >-
   https://cdn-uploads.huggingface.co/production/uploads/66c0a274737c4ed8904e3581/C29bSp2Urwqws3wRzsBYT.png
 short_description: '"An interactive AI Career Advisor powered by Gemini '
+tags:
+  - custom-component-track
 ---
 
 # AI Career Advisor
