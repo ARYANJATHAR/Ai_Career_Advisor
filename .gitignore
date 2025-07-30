@@ -63,3 +63,7 @@ Thumbs.db
 # Project specific
 *.db
 *.sqlite3 
+
+#requirement.txt
+.requirement.txt
+requirement.txt
